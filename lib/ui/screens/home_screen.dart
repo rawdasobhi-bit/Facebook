@@ -24,13 +24,13 @@ class HomeScreen extends StatelessWidget {
   List<PostModel> posts = [
     PostModel(
       profileImg: AppImages.profile1,
-      userName: 'Sara Atef',
+      userName: 'rawda sobhi',
       time: '12',
       postImg: AppImages.story2,
     ),
     PostModel(
       profileImg: AppImages.profile2,
-      userName: 'Hajar Tolba',
+      userName: 'hour mahmoud',
       time: '1',
       postImg: AppImages.story4,
     ),
@@ -53,13 +53,13 @@ class HomeScreen extends StatelessWidget {
       postImg: AppImages.story3,
     ),PostModel(
       profileImg: AppImages.profile1,
-      userName: 'Sara Atef',
+      userName: 'rawda sobhi',
       time: '12',
       postImg: AppImages.story2,
     ),
     PostModel(
       profileImg: AppImages.profile3,
-      userName: 'Hajar Tolba',
+      userName: 'hour mahmoud',
       time: '1',
       postImg: AppImages.story4,
     ),
